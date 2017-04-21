@@ -1,0 +1,18 @@
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\bin\Debug\Youtube Tutorial.exe.config
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\bin\Debug\Youtube Tutorial.exe
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\bin\Debug\Youtube Tutorial.pdb
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube_Tutorial.Form1.resources
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube_Tutorial.Properties.Resources.resources
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube Tutorial.csproj.GenerateResource.Cache
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube Tutorial.exe
+C:\Users\VS201\Documents\Visual Studio 2017\Projects\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube Tutorial.pdb
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\bin\Debug\Youtube Tutorial.exe.config
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\bin\Debug\Youtube Tutorial.exe
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\bin\Debug\Youtube Tutorial.pdb
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube_Tutorial.YouTubeForm.resources
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube_Tutorial.Properties.Resources.resources
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube Tutorial.csproj.GenerateResource.Cache
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube Tutorial.exe
+C:\Users\VS201\Source\Repos\Youtube Tutorial\Youtube Tutorial\obj\Debug\Youtube Tutorial.pdb
