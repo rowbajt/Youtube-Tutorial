@@ -37,15 +37,30 @@ namespace Youtube_Tutorial
 
         private void printTextButton_Click(object sender, EventArgs e)
         {
-            if (outputTextField.Text == "")
+            if (printTextButton.Text == "Reset")
             {
-                printedText.Text = "";
-                printedText.Visible = false;
+                if (outputTextField.Text != "")
+                {
+                    outputTextField.Text = "";
+                    printedText.Text = "";
+                    printedText.Visible = false;
+                    printTextButton.Text = "Print Text";
+                }
             }
-            else
+
+            if (printTextButton.Text == "Print Text")
             {
-                printedText.Text = outputTextField.Text.ToString();
-                printedText.Visible = true;
+                if (outputTextField.Text == "")
+                {
+                    printedText.Text = "";
+                    printedText.Visible = false;
+                }
+                else
+                {
+                    printedText.Text = outputTextField.Text.ToString();
+                    printedText.Visible = true;
+                    printTextButton.Text = "Reset";
+                }
             }
 
         }
